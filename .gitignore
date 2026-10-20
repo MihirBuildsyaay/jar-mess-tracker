@@ -1,0 +1,8 @@
+# Build output (the APK is published on the Releases page instead)
+build/
+*.apk
+*.idsig
+
+# Signing keys must never be committed
+*.keystore
+*.jks

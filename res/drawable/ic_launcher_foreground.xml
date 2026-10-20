@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Water drop with a tick: "picked up" -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,29C54,29 37,49 37,62A17,17 0,0 0,71 62C71,49 54,29 54,29Z" />
+    <path
+        android:strokeColor="#FF0E7490"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M46,62L52,68L63,56" />
+</vector>
