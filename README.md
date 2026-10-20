@@ -21,7 +21,7 @@ Small (about 35 KB), works offline, no account, no ads, no internet permission. 
 
 ## Download & install
 
-1. Go to [**Releases**](../../releases/latest) and download `JarMess.apk` on your phone.
+1. On your phone, tap [**⬇ Download JarMess.apk**](https://github.com/ironman027mk-collab/jar-mess-tracker/releases/latest/download/JarMess.apk) (or open [Releases](../../releases/latest)).
 2. Open it and allow installing from your browser or file manager when Android asks. Play Protect may warn that it's an unknown app; that's because it isn't on the Play Store. Tap **Install anyway**.
 3. Open **Jar & Mess**, enter your jar and dinner prices, and **allow notifications**.
 4. In **Settings**, tap **Send a test reminder now** to check that notifications work.
